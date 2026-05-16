@@ -49,4 +49,4 @@ node scripts/run-node.mjs gateway --port 18789
 With the Gateway active, external AI agents can dispatch instructions to OpenClaw using standard HTTP REST or WebSocket requests conforming to the AgentKit 2.0 schema, enabling fully autonomous **Office 2.0** or **Prometheus-OS** local orchestration topologies.
 
 ---
-*Maintained by the SS-FIA Engineering Team.*
+*Maintained by the olbin.dev Engineering Team.*

@@ -1,5 +1,9 @@
 # OpenClaw AgentKit 2.0 Bridge
 
+> **[🔥 Alias page](https://olbin.dev/openclaw-bridge.html)** · Canonical product: **[cAgent / Agent Factory](https://olbin.dev/factory.html)** · [cAgent repo](https://github.com/olbin-dev/cAgent)  
+> *This repository is the legacy name for the AgentKit 2.0 ↔ OpenClaw bridge. Prefer cAgent.*
+
+
 **A robust JSON-RPC integration layer for autonomous AI-to-AI orchestration in OpenClaw.**
 
 This repository contains the patch and implementation for bridging **AgentKit 2.0** with the **OpenClaw** daemon, completely bypassing the legacy CLI argument parsing that frequently causes `400 INVALID_ARGUMENT` errors during AI-driven local terminal interactions.
@@ -50,3 +54,17 @@ With the Gateway active, external AI agents can dispatch instructions to OpenCla
 
 ---
 *Maintained by the olbin.dev Engineering Team.*
+
+
+## Related projects ([olbin.dev](https://olbin.dev/))
+
+| Project | Role |
+|---------|------|
+| [cAgent](https://github.com/olbin-dev/cAgent) | OpenClaw ↔ AgentKit JSON-RPC bridge — [case study](https://olbin.dev/factory.html) |
+| [Vault Sync for Dropbox](https://github.com/olbin-dev/plugin) | Obsidian ↔ Dropbox sync — [product page](https://olbin.dev/vault-sync.html) |
+| [Local LLM Brain Chat](https://github.com/olbin-dev/obisidian-Plugin-LocalLLM) | Obsidian ↔ local llama.cpp — [product page](https://olbin.dev/local-llm.html) |
+| [LogosCyber](https://github.com/olbin-dev/logos-cyber) | Nuclei template AI scanner — [product page](https://olbin.dev/logos-cyber.html) |
+| [Terminal Image Paster](https://github.com/olbin-dev/Terminal-image-paster) | VS Code clipboard→terminal paths — [product page](https://olbin.dev/terminal-image-paster.html) |
+| [Sovereign Systems Log](https://github.com/olbin-dev/SSjapantokyokugahara) | Technical log — [product page](https://olbin.dev/ss-log.html) |
+| [All projects](https://olbin.dev/projects.html) | Full catalog on olbin.dev |
+
